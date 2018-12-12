@@ -7,4 +7,4 @@ Ishaan - Data collection, data preprocessing, proposal write up, analysis writeu
 Tim - Building a predictive model for hardship index and police brutality rates of Chicago community areas using socioeconomic data.
 Shankar - Build a classification model to predict action level of encounters by officers
 
-Link to our video discussion: 
+Link to our video discussion: https://youtu.be/WmZ7S7BOIGM
